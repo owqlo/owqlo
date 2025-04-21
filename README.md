@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm currently working on [Owqlo](https://owqlo.biz)<br>We are Owqlo — a tech company focused on transforming sports event management through smart, scalable, and user-friendly digital solutions. Our platform helps clubs, leagues, and sports organizations streamline their operations, manage athlete data, and enhance fan engagement.
+We are [Owqlo](https://owqlo.biz) — a tech company focused on transforming sports event management through smart, scalable, and user-friendly digital solutions. Our platform helps clubs, leagues, and sports organizations streamline their operations, manage athlete data, and enhance fan engagement.
 
 <br>We build cross-platform apps with Flutter, deliver modern web experiences with Vue, and power our backend with Node.js and scalable cloud services.
 
