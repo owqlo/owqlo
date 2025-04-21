@@ -32,6 +32,6 @@ We are [Owqlo](https://owqlo.biz) — a tech company focused on transforming spo
 [![](https://visitcount.itsvg.in/api?id=owqlo&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🚀 Interested in working with us or contributing to our projects?
-We’re always open to talented developers and creative minds. Drop us a line at ![Linkeding](https://www.linkedin.com/company/owqlo/) — we’d love to hear from you!
+We’re always open to talented developers and creative minds. Drop us a line at [Linkeding](https://www.linkedin.com/company/owqlo/) — we’d love to hear from you!
 
  
